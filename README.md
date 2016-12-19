@@ -16,4 +16,4 @@
 
 - [Pattern Recognition and Machine Learning](https://github.com/jonathanagustin/Machine-Learning-Stuff/raw/master/Books/Pattern_Recognition_And_Machine_Learning.pdf) by Markus Svensen and Christopher M. Bishop
 
-- [Pattern Recognition and Machine Learning (Solutions Manual)](https://github.com/jonathanagustin/Machine-Learning-Stuff/raw/master/Books/Pattern_Recognition_And_Machine_Learning_(Solution_Manual).pdf) by Markus Svensen and Christopher M. Bishop
+- [Pattern Recognition and Machine Learning (Solutions Manual)](https://github.com/jonathanagustin/Machine-Learning-Stuff/raw/master/Books/Pattern_Recognition_And_Machine_Learning_(Solutions_Manual).pdf) by Markus Svensen and Christopher M. Bishop
